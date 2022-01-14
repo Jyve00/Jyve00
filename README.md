@@ -9,6 +9,10 @@ Here are some of my completed projects:
 Audio Classification for recorded speech using audio feature extraction and augmentation feed into a Convolutional Neural Network. The model has an accuracy of 73% and uses Librosa for audio preprocessing and Tensorflow for the Machine Learning models. 
 
 
+## [Music Information Retrieval](https://github.com/Jyve00/MIR)
+![alt text](https://www.incimages.com/uploaded_files/image/1920x1080/getty_626660256_2000108620009280158_388846.jpg)
+
+
 
 <!--
 **Jyve00/Jyve00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
