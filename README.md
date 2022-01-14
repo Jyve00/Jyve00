@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Stephen William and I specialize in Speech Recognition, Audio Classification, and Natural Language Processing. 
 
 <!--
 **Jyve00/Jyve00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
