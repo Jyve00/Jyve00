@@ -27,24 +27,7 @@ Speech Recognition experiments using the latest Deep Learning methods and featur
 
 
 
-## Repository Structure
 
-```
-
-├── Data                                <- contains csv data and nested subfolder of audio data
-│   └── ...
-├── images                              <- contains saved images from notebooks. 
-│   └── ...
-├── notebooks                           <- contains more in depth notebooks 
-│  └── .ipynb                           <- 
-│  └── .ipynb                           <- 
-│  └── .ipynb                           <-
-│  └── .ipynb                           <- 
-├── .gitattributes                      <- file specifying files for git lfs to track
-├── .gitignore                          <- file specifying files/directories to ignore
-├── README.md                           <- Top-level README
-└── 
-```
 
 
 
