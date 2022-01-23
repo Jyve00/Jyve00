@@ -1,5 +1,5 @@
 ## My name is Stephen William and I specialize in Speech Recognition, Audio Classification, and Natural Language Processing. Welcome to my Github!
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyve00)](https://github.com/Jyve00/github-readme-stats)
 
 
 ### Here are some of my completed projects: 
